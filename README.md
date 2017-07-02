@@ -4,8 +4,13 @@
 ## 界面截图（[原图查看][3]）
 
 
-![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/blob/master/imgs/01.png)
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/blob/master/imgs/01.png)
 
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/blob/master/imgs/02.png)
+
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/blob/master/imgs/03.png)
+
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/blob/master/imgs/04.png)
 ------
 
 再一次感谢您花费时间阅读，欢迎留下宝贵意见！
