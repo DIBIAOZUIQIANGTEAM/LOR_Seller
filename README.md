@@ -4,10 +4,10 @@
 ## 界面截图（[原图查看][3]）
 
 
-![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/blob/master/imgs/1.png)
-![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/blob/master/imgs/2.png)
-![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/blob/master/imgs/3.png)
-
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/tree/master/imgs/01.png)
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/tree/master/imgs/02.png)
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/tree/master/imgs/03.png)
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/tree/master/imgs/04.png)
 ------
 
 再一次感谢您花费时间阅读，欢迎留下宝贵意见！
@@ -19,4 +19,4 @@
 
 [2]: https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer
 
-[3]: https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/tree/master/imgs
+[3]: https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/tree/master/imgs
