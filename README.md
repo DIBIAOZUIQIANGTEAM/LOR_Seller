@@ -2,9 +2,7 @@
 
 
 ## 界面截图（[原图查看][3]）
-
 ![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Seller/tree/master/imgs/01.png)
-
 ------
 
 再一次感谢您花费时间阅读，欢迎留下宝贵意见！
