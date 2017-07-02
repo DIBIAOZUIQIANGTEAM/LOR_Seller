@@ -4,7 +4,7 @@
 ## 界面截图（[原图查看][3]）
 
 
-![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/blob/master/imgs/1.png)
+![](https://github.com/DIBIAOZUIQIANGTEAM/Lor_Buyer/blob/master/imgs/01.png)
 
 ------
 
